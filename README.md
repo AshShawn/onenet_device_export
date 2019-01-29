@@ -4,7 +4,7 @@ OneNET设备批量下载
 ## 快速使用(适用windows 7及以上环境)
 下载程序
 
-运行“device_export.exe”,或者手动编辑app.conf中的api-key改为你的key，注意“(your api-key)”的括号不应保留
+运行“device_export.exe”(需 .NET FrameWork 3.5),或者手动编辑app.conf中的api-key改为你的key，注意“(your api-key)”的括号不应保留
 
 运行程序
 
